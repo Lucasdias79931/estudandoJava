@@ -1,1 +1,2 @@
-Aplicando conceitos como poo, Estrutura de dados em java
+Aplicando conceitos como POO e Estrutura de Dados em Java
+
